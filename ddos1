@@ -81,36 +81,6 @@ os.system("clear")
 print "SEBENTAR....."
 time.sleep(5)
 os.system("clear")
-print "[                       ] 0%"
-time.sleep(5)
-os.system("clear") 
-print "[====                  ] 25%"  
-time.sleep(0)
-os.system("clear")         
-print "[==============        ] 50%"  
-time.sleep(0)
-os.system("clear")
-print "[=================    ] 70%"  
-time.sleep(0)
-os.system("clear")
-print "[====================] 100%"
-time.sleep(0)
-os.system("clear")
-print "[                       ] 0%"
-time.sleep(0)
-os.system("clear") 
-print "[====                  ] 25%"  
-time.sleep(0)
-os.system("clear")         
-print "[==============        ] 50%"  
-time.sleep(0)
-os.system("clear")
-print "[=================    ] 70%"  
-time.sleep(0)
-os.system("clear")
-print "[====================] 100%"
-time.sleep(0)
-os.system("clear")
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
