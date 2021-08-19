@@ -48,6 +48,7 @@ time.sleep(10)
 os.system("clear")
 print "EROR SYSTEM"
 time.sleep(10)
+os.system("clear")
 print "[============       ] 25%"
 time.sleep(0)
 os.system("clear")
@@ -87,6 +88,6 @@ while True:
      sent = sent + 1
      port = port + 1
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
-     if port == 65534:
+     if port == 9999999:
        port = 1
 
