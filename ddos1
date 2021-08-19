@@ -81,19 +81,6 @@ print "harap sabar [====================] 100%"
 time.sleep(5)
 os.system("clear")
 print "SEBENTAR....."
-
-import requests as reek,json,os,time,requests
-try:
-	import pyfiglet
-req=reek.Session()
-os.system('clear')
-title=pyfiglet.figlet_format("DDOS ATTACK")
-p = "\33[37;1m"
-h = "\33[32;1m"
-m = "\33[31;1m"
-ber=0
-gag=0
-class nyepam:
 time.sleep(5)
 os.system("clear")
 sent = 0
