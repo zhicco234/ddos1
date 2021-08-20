@@ -20,7 +20,7 @@
 # ddos by mr.chainner
   
 # apa it ddos attack?
-serangan denial-of-service adalah serangan dunia maya di mana pelaku berupaya membuat mesin atau sumber daya jaringan tidak tersedia bagi pengguna yang dituju dengan mengganggu layanan host yang terhubung ke Internet untuk sementara atau tanpa batas.
+serangan dristibuteddenial-of-service adalah serangan dunia maya di mana pelaku berupaya membuat mesin atau sumber daya jaringan tidak tersedia bagi pengguna yang dituju dengan mengganggu layanan host yang terhubung ke Internet untuk sementara atau tanpa batas.
 
 ## FOR TERMUX USER
 
