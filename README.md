@@ -28,18 +28,21 @@ serangan denial-of-service adalah serangan dunia maya di mana pelaku berupaya me
 > pkg update && pkg upgrade
 > pkg install git -y
 >pkg install python
-> git clone https://github.com/zhicco234/DDos-Attack
-> cd DDos-Attack
-> python dddos-attack.py
+> git clone https://github.com/zhicco234/ddos1
+> cd ddos1
+> python ddo1.py
 ```
 
 ---------
 
 
 ```bash
-> git clone https://github.com/zhicco234/DDos-Attack
-> cd DDos-Attack
->python ddos-attack.py
+> pkg update && pkg upgrade
+> pkg install git -y
+>pkg install python
+> git clone https://github.com/zhicco234/ddos1
+> cd ddos1
+> python ddo1.py
 ```
 ---------
 
